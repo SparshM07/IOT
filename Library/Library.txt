@@ -1,0 +1,12 @@
+Required Arduino Libraries:
+===========================
+ONLY 1 REQUIRED - 
+LiquidCrystal_I2C
+Installation Instructions:
+1. Open Arduino IDE
+2. Go to Sketch → Include Library → Manage Libraries
+3. Search for each library by name
+4. Click "Install"
+*****IMP******
+Install the one only by:
+Frank de Brabander...
